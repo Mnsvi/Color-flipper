@@ -1,6 +1,6 @@
-Color Change Activity
+🎊 COLOR CHANGE ACTIVITY 🎊
 
-A simple, interactive web application built with HTML, CSS, and vanilla JavaScript to practice DOM manipulation.
+A simple, interactive web application built with HTML, CSS and JS.
 
 ✨ Features
 ~ Dynamic Display: Captures user text input and renders it instantly on the screen upon submission.
